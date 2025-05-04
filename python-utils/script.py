@@ -1,1 +1,2 @@
-print('spam and eggs')
+print('EGGS')
+print('The food is raw')
